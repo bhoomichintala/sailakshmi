@@ -1,0 +1,67 @@
+#first{
+    border:none;
+    height:auto;
+    width:500px;
+    position: absolute;
+}
+     #first #input1{
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        outLine: none;
+        background: transparent;
+        border-bottom: 2px solid black;
+        width:300px;
+        margin:10px;
+     }
+     #second{
+        border:none;
+        height:auto;
+        width:500px;
+        margin-left:530px;
+     }
+     #second #input2{
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        outLine: none;
+        background: transparent;
+        border-bottom: 2px solid black;
+        width:300px;
+        margin:10px;
+     }
+     #third{
+        border:none;
+        height:auto;
+        width:500px;
+        margin-left:530px;
+ }
+ #third #input3{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outLine: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width:600px;
+    margin:10px;
+ }
+ #third{
+    border:none;
+    height:auto;
+    width:300px;
+}
+#fourth #input4{
+border-top: none;
+border-left: none;
+border-right: none;
+outLine: none;
+background: transparent;
+border-bottom: 2px solid black;
+width:200px;
+margin:10px;
+}
+
+
+
+ 
